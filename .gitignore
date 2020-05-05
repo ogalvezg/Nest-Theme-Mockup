@@ -9,3 +9,9 @@ vendor/
 *.pem
 composer.lock
 .php_cs.cache
+
+# Bootstrap
+app/Bootstrap
+
+# Composer
+composer.phar 
